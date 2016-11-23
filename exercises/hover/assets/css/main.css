@@ -81,7 +81,7 @@ body {
     transform: translate(-100px, 10px) rotate(8deg);
     opacity: 0.15; }
   0%, 100% {
-    transform: translate(-100, ) rotate(0); } }
+    transform: translate(0, 0) rotate(0); } }
 
 .shake-crazy:hover,
 .shake-trigger:hover .shake-crazy, .shake-crazy.shake-freeze, .shake-crazy.shake-constant {
