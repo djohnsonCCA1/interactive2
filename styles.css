@@ -18,3 +18,26 @@ h1{
 #exercises{
 	text-align: center;
 }
+
+ a{
+	color:black;
+	font-family: helvetica;
+	text-decoration: none;
+	
+}
+
+
+
+#square{
+	
+	position: absolute; 
+	top:20%; 
+	left:40%;
+	width: 260px;
+	height: 450px;
+	border: solid blue 2pt;
+
+	z-index: 1
+}
+
+}
