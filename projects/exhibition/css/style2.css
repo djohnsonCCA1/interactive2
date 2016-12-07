@@ -1,0 +1,24 @@
+
+img{
+	margin-top:30px;
+	margin-bottom: 2px
+
+}
+
+
+.blur {-webkit-filter: blur(2px); filter: blur(2px);}
+
+
+#folders{
+	background-color:;
+	width: 900px;
+	height: 600px;
+	position: absolute;
+	top: 5%;
+	left:5%;
+	
+}
+
+#folder1{
+	opacity: .1;
+}
